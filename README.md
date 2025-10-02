@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sxzrd1
-- 👀 I’m interested in Coding ...
-- 🌱 I’m currently learning Programming in all languages ...
-- 📫 How to reach me : salmazerrad@icloud.com ...
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning Programming in all languages
+- 📫 How to reach me : salmazerrad@icloud.com
 
 <!---
 sxzrd1/sxzrd1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
